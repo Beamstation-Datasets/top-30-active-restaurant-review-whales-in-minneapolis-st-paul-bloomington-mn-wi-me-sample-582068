@@ -1,0 +1,12 @@
+{
+  "export_job_id": "11eadbed-b48a-4103-b50f-0a2867fbeb56",
+  "id_short": 582068,
+  "published_at": "2026-04-13T19:34:18Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-minneapolis-st-paul-bloomington-mn-wi-me-sample-582068",
+  "sample_asset_name": "beamstation_582068_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/582068/beamstation_582068_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "c2bffcf48035ef5569737294e97ba852431d96a1346594c0e90379d2a47728e5",
+  "sample_size_bytes": 56117,
+  "total_records": 1531
+}
