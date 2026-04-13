@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Minneapolis-St. Paul-Bloomington, MN-WI Metro Area, US",
+  "export_job_id": "11eadbed-b48a-4103-b50f-0a2867fbeb56",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 582068,
+  "location_name": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-minneapolis-st-paul-bloomington-mn-wi-me-sample-582068",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/582068/beamstation_582068_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
+  "sample_pct": 0.65,
+  "sample_records": 10,
+  "sample_sha256": "c2bffcf48035ef5569737294e97ba852431d96a1346594c0e90379d2a47728e5",
+  "sample_size_bytes": 56117,
+  "total_records": 1531,
+  "updated_at": "2026-04-01T00:32:54.136068+00:00"
+}
