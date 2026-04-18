@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Minneapolis-St. Paul-Bloomington, MN-WI Metro Area, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 169 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `582068` |
 | Location | Minneapolis-St. Paul-Bloomington, MN-WI |
 | Category | Restaurants |
-| Full dataset size | 1,531 records |
-| Free sample size | 10 records (0.65%) |
-| Last export | 2026-04-01T00:32:54.136068+00:00 |
+| Full dataset size | 1,691 records |
+| Free sample size | 169 records (9.99%) |
+| Last export | 2026-04-15T02:15:11.884031+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-minneapolis-st-paul-bloomington-mn-wi-me-sample-582068/releases/download/sample-latest/beamstation_582068_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
